@@ -18,6 +18,9 @@ public class TestMammal {
 		gorilla1.displayEnergy();
 		gorilla1.climb();
 		gorilla1.displayEnergy();
+		
+		Bat bat1 = new Bat();
+		bat1.displayEnergy();
 	}
 
 }

@@ -2,7 +2,7 @@ package com.zookeeper1;
 
 public class Mammal {
 
-	private int energyLevel = 100;
+	public int energyLevel = 100;
 	
 	
 //	Methods
